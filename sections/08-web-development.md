@@ -46,6 +46,19 @@
 - 📺 **Videos**:
   - [HTML & CSS Crash Course](https://www.youtube.com/watch?v=hu-q2zYwEYs)
   - [JavaScript30](https://javascript30.com/)
+  - [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+  - [Fireship](https://www.youtube.com/c/Fireship)
+  - [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
+  - [Kevin Powell](https://www.youtube.com/kepowob)
+  - [Theo - t3.gg](https://www.youtube.com/c/TheoBrowne1017)
+  - [Jack Herrington](https://www.youtube.com/c/JackHerrington)
+- 📝 **Blogs & Articles**:
+  - [CSS Tricks](https://css-tricks.com/)
+  - [Josh W Comeau](https://www.joshwcomeau.com/)
+  - [Kent C. Dodds](https://kentcdodds.com/blog)
+  - [Smashing Magazine](https://www.smashingmagazine.com/)
+  - [web.dev](https://web.dev/)
+  - [Daily.dev](https://daily.dev/)
 - 📝 **Practice**:
   - [Frontend Mentor](https://www.frontendmentor.io/)
   - [CSS Battle](https://cssbattle.dev/)

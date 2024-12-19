@@ -48,6 +48,19 @@
 - 📺 **Videos**:
   - [Architecture Patterns](https://www.youtube.com/watch?v=8UlLgOf20Ho)
   - [System Design](https://www.youtube.com/watch?v=ZgdS0EUmn70)
+  - [Mark Richards](https://www.youtube.com/c/MarkRichards)
+  - [GOTO Conferences](https://www.youtube.com/c/GotoConferences)
+  - [Software Architecture Monday](https://www.youtube.com/c/MarkRichards)
+  - [AWS Events](https://www.youtube.com/c/AWSEventsChannel)
+  - [Microsoft Developer](https://www.youtube.com/c/MicrosoftDeveloper)
+  - [ThoughtWorks](https://www.youtube.com/c/thoughtworks)
+- 📝 **Blogs & Articles**:
+  - [Martin Fowler's Blog](https://martinfowler.com/)
+  - [AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/)
+  - [Microsoft Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
+  - [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar)
+  - [Architecture Notes by Gregor Hohpe](https://architectelevator.com/)
+  - [System Design Newsletter](https://newsletter.systemdesign.one/)
 - 📝 **Practice**:
   - [Architecture Examples](https://github.com/donnemartin/system-design-primer)
   - [Design Patterns](https://refactoring.guru/design-patterns)
@@ -139,7 +152,7 @@
 - 📝 **Practice**:
   - [AWS Architecture Center](https://aws.amazon.com/architecture/)
   - [Azure Architecture Center](https://docs.microsoft.com/azure/architecture/)
-  - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+  - [GCP Architecture Framework](https://cloud.google.com/architecture/)
 
 ### Core Concepts
 

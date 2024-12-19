@@ -44,6 +44,19 @@
 - **Videos**:
   - [StatQuest ML Tutorials](https://www.youtube.com/c/joshstarmer)
   - [Machine Learning Course](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+  - [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher)
+  - [Two Minute Papers](https://www.youtube.com/user/keeroyz)
+  - [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
+  - [Computerphile](https://www.youtube.com/user/computerphile)
+  - [Sentdex](https://www.youtube.com/user/sentdex)
+  - [AI Coffee Break with Letitia](https://www.youtube.com/c/AICoffeeBreak)
+- **Blogs & Articles**:
+  - [Distill.pub](https://distill.pub/)
+  - [OpenAI Blog](https://openai.com/blog/)
+  - [Google AI Blog](https://ai.googleblog.com/)
+  - [DeepMind Blog](https://deepmind.com/blog)
+  - [Papers with Code](https://paperswithcode.com/)
+  - [Sebastian Ruder's Blog](https://ruder.io/)
 - **Practice**:
   - [Kaggle Learn](https://www.kaggle.com/learn)
   - [ML Exercises](https://github.com/ageron/handson-ml2)
@@ -96,6 +109,19 @@
 - **Videos**:
   - [3Blue1Brown Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
   - [Deep Learning Crash Course](https://www.youtube.com/watch?v=VyWAvY2CF9c)
+  - [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher)
+  - [Two Minute Papers](https://www.youtube.com/user/keeroyz)
+  - [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
+  - [Computerphile](https://www.youtube.com/user/computerphile)
+  - [Sentdex](https://www.youtube.com/user/sentdex)
+  - [AI Coffee Break with Letitia](https://www.youtube.com/c/AICoffeeBreak)
+- **Blogs & Articles**:
+  - [Distill.pub](https://distill.pub/)
+  - [OpenAI Blog](https://openai.com/blog/)
+  - [Google AI Blog](https://ai.googleblog.com/)
+  - [DeepMind Blog](https://deepmind.com/blog)
+  - [Papers with Code](https://paperswithcode.com/)
+  - [Sebastian Ruder's Blog](https://ruder.io/)
 - **Practice**:
   - [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
   - [PyTorch Examples](https://github.com/pytorch/examples)
@@ -145,6 +171,19 @@
 - **Videos**:
   - [NLP Zero to Hero](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)
   - [Stanford NLP Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+  - [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher)
+  - [Two Minute Papers](https://www.youtube.com/user/keeroyz)
+  - [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
+  - [Computerphile](https://www.youtube.com/user/computerphile)
+  - [Sentdex](https://www.youtube.com/user/sentdex)
+  - [AI Coffee Break with Letitia](https://www.youtube.com/c/AICoffeeBreak)
+- **Blogs & Articles**:
+  - [Distill.pub](https://distill.pub/)
+  - [OpenAI Blog](https://openai.com/blog/)
+  - [Google AI Blog](https://ai.googleblog.com/)
+  - [DeepMind Blog](https://deepmind.com/blog)
+  - [Papers with Code](https://paperswithcode.com/)
+  - [Sebastian Ruder's Blog](https://ruder.io/)
 - **Practice**:
   - [NLP Projects](https://github.com/practical-nlp/practical-nlp)
   - [NLP Exercises](https://github.com/explosion/spacy-course)
@@ -194,6 +233,19 @@
 - **Videos**:
   - [RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0)
   - [Deep RL Tutorial](https://www.youtube.com/watch?v=JgvyzIkgxF0)
+  - [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher)
+  - [Two Minute Papers](https://www.youtube.com/user/keeroyz)
+  - [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
+  - [Computerphile](https://www.youtube.com/user/computerphile)
+  - [Sentdex](https://www.youtube.com/user/sentdex)
+  - [AI Coffee Break with Letitia](https://www.youtube.com/c/AICoffeeBreak)
+- **Blogs & Articles**:
+  - [Distill.pub](https://distill.pub/)
+  - [OpenAI Blog](https://openai.com/blog/)
+  - [Google AI Blog](https://ai.googleblog.com/)
+  - [DeepMind Blog](https://deepmind.com/blog)
+  - [Papers with Code](https://paperswithcode.com/)
+  - [Sebastian Ruder's Blog](https://ruder.io/)
 - **Practice**:
   - [RL Exercises](https://github.com/dennybritz/reinforcement-learning)
   - [RL Projects](https://github.com/openai/gym/tree/master/gym/envs)

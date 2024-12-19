@@ -41,10 +41,17 @@
 - 📺 **Videos**:
   - [Swift Programming Tutorial](https://www.youtube.com/watch?v=comQ1-x2a1Q)
   - [iOS App Development](https://www.youtube.com/watch?v=09TeUXjzpKs)
+  - [Coding with Chris](https://www.youtube.com/c/CodeWithChris)
+  - [Paul Hudson](https://www.youtube.com/c/PaulHudson)
+  - [Sean Allen](https://www.youtube.com/c/SeanAllen)
 - 📝 **Practice**:
   - [Ray Wenderlich Tutorials](https://www.raywenderlich.com/ios/paths)
   - [HackingWithSwift](https://www.hackingwithswift.com/)
   - [Swift by Example](http://online.swiftplayground.run/)
+- 📝 **Blogs & Articles**:
+  - [Swift by Sundell](https://www.swiftbysundell.com/)
+  - [Kodeco (formerly RayWenderlich)](https://www.kodeco.com/)
+  - [ProAndroidDev](https://proandroiddev.com/)
 
 ### Core Concepts
 
@@ -88,10 +95,16 @@
 - 📺 **Videos**:
   - [Android Development for Beginners](https://www.youtube.com/watch?v=fis26HvvDII)
   - [Kotlin Course](https://www.youtube.com/watch?v=F9UC9DY-vIU)
+  - [Android Developers](https://www.youtube.com/c/AndroidDevelopers)
+  - [React Native School](https://www.youtube.com/c/ReactNativeSchool)
 - 📝 **Practice**:
   - [Android Codelabs](https://codelabs.developers.google.com/)
   - [Android Examples](https://github.com/android/architecture-components-samples)
   - [Kotlin Koans](https://play.kotlinlang.org/koans/)
+- 📝 **Blogs & Articles**:
+  - [Android Developers Blog](https://android-developers.googleblog.com/)
+  - [Kodeco (formerly RayWenderlich)](https://www.kodeco.com/)
+  - [ProAndroidDev](https://proandroiddev.com/)
 
 ### Core Concepts
 
@@ -134,10 +147,16 @@
 - 📺 **Videos**:
   - [Flutter Tutorial](https://www.youtube.com/watch?v=1ukSR1GRtMU)
   - [React Native Course](https://www.youtube.com/watch?v=0-S5a0eXPoc)
+  - [Flutter](https://www.youtube.com/c/FlutterDev)
 - 📝 **Practice**:
   - [Flutter Cookbook](https://flutter.dev/docs/cookbook)
   - [React Native Examples](https://github.com/ReactNativeSchool)
   - [Xamarin Samples](https://github.com/xamarin/xamarin-forms-samples)
+- 📝 **Blogs & Articles**:
+  - [React Native Blog](https://reactnative.dev/blog)
+  - [Flutter Medium](https://medium.com/flutter)
+  - [Kodeco (formerly RayWenderlich)](https://www.kodeco.com/)
+  - [ProAndroidDev](https://proandroiddev.com/)
 
 ### Core Concepts
 
@@ -183,6 +202,9 @@
   - [Mobile UI Patterns](https://mobbin.design/)
   - [Design Challenges](https://www.dailyui.co/)
   - [UX Case Studies](https://growth.design/case-studies)
+- 📝 **Blogs & Articles**:
+  - [Kodeco (formerly RayWenderlich)](https://www.kodeco.com/)
+  - [ProAndroidDev](https://proandroiddev.com/)
 
 ### Core Concepts
 

@@ -42,6 +42,19 @@
   - [MIT 6.006 Course Videos](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
   - [MyCodeSchool Data Structures](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
   - [William Fiset's Data Structures](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+  - [MIT Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+  - [mycodeschool](https://www.youtube.com/user/mycodeschool)
+  - [Back To Back SWE](https://www.youtube.com/c/BackToBackSWE)
+  - [William Fiset](https://www.youtube.com/c/WilliamFiset-videos)
+  - [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
+  - [Algorithms Live!](https://www.youtube.com/c/AlgorithmsLive)
+- 📝 **Blogs & Articles**:
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/)
+  - [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
+  - [CP-Algorithms](https://cp-algorithms.com/)
+  - [USACO Guide](https://usaco.guide/)
+  - [Codeforces Blogs](https://codeforces.com/blog/entry/13529)
+  - [Algorithm Visualizer Blog](https://algorithm-visualizer.org/blog)
 - 📝 **Practice**:
   - [LeetCode Data Structure Track](https://leetcode.com/study-plan/data-structure/)
   - [HackerRank Data Structures](https://www.hackerrank.com/domains/data-structures)
@@ -86,7 +99,7 @@
 
 - 📺 **Videos**:
   - [Abdul Bari Algorithms](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
-  - [Back To Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
+  - [Back To Back SWE](https://www.youtube.com/c/BackToBackSWE)
   - [Tushar Roy - Coding Made Simple](https://www.youtube.com/user/tusharroy2525)
 - 📝 **Practice**:
   - [Project Euler](https://projecteuler.net/)

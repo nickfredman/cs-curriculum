@@ -1,10 +1,11 @@
 # 13. Software Engineering Practices
 
-**Prerequisites**: 
+**Prerequisites**:
+
 - Programming Experience
 - Basic Git Knowledge
 - Command Line Proficiency
-**Estimated Time**: 10-12 weeks (10-15 hours/week)
+  **Estimated Time**: 10-12 weeks (10-15 hours/week)
 
 ## Learning Objectives
 
@@ -34,6 +35,7 @@
   - [Bitbucket](https://bitbucket.org/)
 
 ### Supplemental Resources
+
 - 📺 **Videos**:
   - [Git & GitHub Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
   - [Advanced Git Tutorial](https://www.youtube.com/watch?v=qsTthZi23VE)
@@ -87,6 +89,7 @@
   - [k6](https://k6.io/)
 
 ### Supplemental Resources
+
 - 📺 **Videos**:
   - [Unit Testing Tutorial](https://www.youtube.com/watch?v=vZm0lHciFsQ)
   - [Test Driven Development](https://www.youtube.com/watch?v=z6gOPonp2t0)
@@ -130,12 +133,27 @@
   - [Sphinx](https://www.sphinx-doc.org/)
 
 ### Supplemental Resources
+
 - 📺 **Videos**:
   - [Clean Code Tutorial](https://www.youtube.com/watch?v=7EmboKQH8lM)
   - [Code Documentation](https://www.youtube.com/watch?v=YK-GurROGIg)
 - 📝 **Practice**:
   - [Clean Code Exercises](https://github.com/ryanmcdermott/clean-code-javascript)
   - [Documentation Examples](https://github.com/documentationjs/documentation)
+- 📝 **Blogs & Articles**:
+  - [Martin Fowler's Blog](https://martinfowler.com/)
+  - [Joel on Software](https://www.joelonsoftware.com/)
+  - [Clean Coder Blog](https://blog.cleancoder.com/)
+  - [Google Testing Blog](https://testing.googleblog.com/)
+  - [Dev.to - Software Practices](https://dev.to/t/bestpractices)
+  - [The Pragmatic Engineer](https://blog.pragmaticengineer.com/)
+- 📺 **YouTube Channels**:
+  - [ArjanCodes](https://www.youtube.com/c/ArjanCodes)
+  - [Clean Coders](https://www.youtube.com/c/Cleancoders)
+  - [DevOps Toolkit](https://www.youtube.com/c/DevOpsToolkit)
+  - [Continuous Delivery](https://www.youtube.com/c/ContinuousDelivery)
+  - [Google Testing Blog](https://www.youtube.com/c/GoogleTestingBlog)
+  - [Engineering Man](https://www.youtube.com/c/EngineerMan)
 
 ### Core Concepts
 
@@ -173,6 +191,7 @@
   - [GitHub Projects](https://github.com/features/project-management/)
 
 ### Supplemental Resources
+
 - 📺 **Videos**:
   - [Agile Crash Course](https://www.youtube.com/watch?v=NrHpXvDXVrw)
   - [Scrum in 10 Minutes](https://www.youtube.com/watch?v=XU0llRltyFM)

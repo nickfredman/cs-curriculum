@@ -40,6 +40,19 @@
 - 📺 **Videos**:
   - [Distributed Systems lecture series](https://www.youtube.com/watch?v=cQP8WApzIQQ)
   - [Distributed Computing Principles](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
+  - [Martin Kleppmann](https://www.youtube.com/c/MartinKleppmann)
+  - [System Design Interview](https://www.youtube.com/c/SystemDesignInterview)
+  - [ByteByteGo](https://www.youtube.com/c/ByteByteGo)
+  - [Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering)
+  - [Gaurav Sen](https://www.youtube.com/c/GauravSensei)
+  - [Tech Dummies](https://www.youtube.com/c/TechDummiesNarendraL)
+- 📝 **Blogs & Articles**:
+  - [High Scalability](http://highscalability.com/)
+  - [Martin Kleppmann's Blog](https://martin.kleppmann.com/)
+  - [Distributed Systems Labs](https://distributedlab.github.io/)
+  - [Aphyr's Blog](https://aphyr.com/)
+  - [The Morning Paper](https://blog.acolyer.org/)
+  - [Distributed Systems Weekly](https://distributed-systems-weekly.vercel.app/)
 - 📝 **Practice**:
   - [Distributed Systems Challenges](https://github.com/aphyr/distsys-class)
   - [System Design Primer](https://github.com/donnemartin/system-design-primer)

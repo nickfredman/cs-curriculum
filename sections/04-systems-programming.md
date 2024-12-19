@@ -40,10 +40,23 @@
 - 📺 **Videos**:
   - [Jacob Sorber's C Programming](https://www.youtube.com/c/JacobSorber)
   - [CS50 Lectures](https://www.youtube.com/c/cs50)
+  - [Jacob Sorber](https://www.youtube.com/c/JacobSorber)
+  - [Jon Gjengset](https://www.youtube.com/c/JonGjengset)
+  - [Ryan Levick](https://www.youtube.com/c/RyanLevicksVideos)
+  - [Systems with JT](https://www.youtube.com/c/SystemswithJT)
+  - [Let's Get Rusty](https://www.youtube.com/c/LetsGetRusty)
+  - [Embedded Systems](https://www.youtube.com/c/PhilsLab)
 - 📝 **Practice**:
   - [Exercism C Track](https://exercism.io/tracks/c)
   - [Learn C Programming](https://www.learn-c.org/)
   - [C Programming Exercises](https://www.w3resource.com/c-programming-exercises/)
+- 📝 **Blogs & Articles**:
+  - [Embedded in Academia](https://blog.regehr.org/)
+  - [Julia Evans](https://jvns.ca/)
+  - [Rust Blog](https://blog.rust-lang.org/)
+  - [Low Level Programming Blog](https://www.lowlevel.eu/)
+  - [OS Dev Wiki](https://wiki.osdev.org/)
+  - [Embedded Artistry](https://embeddedartistry.com/blog/)
 
 ### Core Concepts
 

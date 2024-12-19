@@ -36,10 +36,23 @@
 - 📺 **Videos**:
   - [Linear Algebra for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
   - [MIT OCW Linear Algebra Recitations](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
+  - [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
+  - [PatrickJMT](https://www.youtube.com/user/patrickJMT)
+  - [MathTheBeautiful](https://www.youtube.com/c/MathTheBeautiful)
+  - [Mathologer](https://www.youtube.com/c/Mathologer)
+  - [Numberphile](https://www.youtube.com/user/numberphile)
+  - [MIT OpenCourseWare](https://www.youtube.com/c/mitocw)
 - 📝 **Practice**:
   - [MIT Linear Algebra Problem Sets](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/assignments/)
   - [Linear Algebra Practice Problems](https://www.math.ucdavis.edu/~linear/practice.html)
   - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
+- 📝 **Blogs & Articles**:
+  - [Better Explained](https://betterexplained.com/)
+  - [Math ∩ Programming](https://jeremykun.com/)
+  - [Mathematical Fun](https://mathematicalfun.com/)
+  - [Brilliant Blog](https://brilliant.org/blog/)
+  - [Wolfram Blog](https://blog.wolfram.com/)
+  - [Plus Magazine](https://plus.maths.org/)
 
 ### Core Concepts
 
@@ -79,9 +92,22 @@
 - 📺 **Videos**:
   - [Discrete Math by PatrickJMT](https://www.youtube.com/playlist?list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg)
   - [Graph Theory by Sarada Herke](https://www.youtube.com/playlist?list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg)
+  - [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
+  - [PatrickJMT](https://www.youtube.com/user/patrickJMT)
+  - [MathTheBeautiful](https://www.youtube.com/c/MathTheBeautiful)
+  - [Mathologer](https://www.youtube.com/c/Mathologer)
+  - [Numberphile](https://www.youtube.com/user/numberphile)
+  - [MIT OpenCourseWare](https://www.youtube.com/c/mitocw)
 - 📝 **Practice**:
   - [Project Euler](https://projecteuler.net/)
   - [Brilliant.org Discrete Math Course](https://brilliant.org/courses/discrete-mathematics/)
+- 📝 **Blogs & Articles**:
+  - [Better Explained](https://betterexplained.com/)
+  - [Math ∩ Programming](https://jeremykun.com/)
+  - [Mathematical Fun](https://mathematicalfun.com/)
+  - [Brilliant Blog](https://brilliant.org/blog/)
+  - [Wolfram Blog](https://blog.wolfram.com/)
+  - [Plus Magazine](https://plus.maths.org/)
 
 ### Core Concepts
 
@@ -122,9 +148,21 @@
 - 📺 **Videos**:
   - [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)
   - [3Blue1Brown Probability](https://www.youtube.com/watch?v=HZGCoVF3YvM)
+  - [PatrickJMT](https://www.youtube.com/user/patrickJMT)
+  - [MathTheBeautiful](https://www.youtube.com/c/MathTheBeautiful)
+  - [Mathologer](https://www.youtube.com/c/Mathologer)
+  - [Numberphile](https://www.youtube.com/user/numberphile)
+  - [MIT OpenCourseWare](https://www.youtube.com/c/mitocw)
 - 📝 **Practice**:
   - [Kaggle Learn Statistics](https://www.kaggle.com/learn/intro-to-statistics)
   - [OpenIntro Statistics](https://www.openintro.org/book/os/)
+- 📝 **Blogs & Articles**:
+  - [Better Explained](https://betterexplained.com/)
+  - [Math ∩ Programming](https://jeremykun.com/)
+  - [Mathematical Fun](https://mathematicalfun.com/)
+  - [Brilliant Blog](https://brilliant.org/blog/)
+  - [Wolfram Blog](https://blog.wolfram.com/)
+  - [Plus Magazine](https://plus.maths.org/)
 
 ### Core Concepts
 
@@ -165,9 +203,22 @@
 - 📺 **Videos**:
   - [PatrickJMT Calculus](https://www.youtube.com/user/patrickJMT)
   - [Professor Leonard Calculus](https://www.youtube.com/playlist?list=PLF797E961509B4EB5)
+  - [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
+  - [PatrickJMT](https://www.youtube.com/user/patrickJMT)
+  - [MathTheBeautiful](https://www.youtube.com/c/MathTheBeautiful)
+  - [Mathologer](https://www.youtube.com/c/Mathologer)
+  - [Numberphile](https://www.youtube.com/user/numberphile)
+  - [MIT OpenCourseWare](https://www.youtube.com/c/mitocw)
 - 📝 **Practice**:
   - [Paul's Online Math Notes](https://tutorial.math.lamar.edu/)
   - [MIT OCW Calculus Problems](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/problem-solving-resources/)
+- 📝 **Blogs & Articles**:
+  - [Better Explained](https://betterexplained.com/)
+  - [Math ∩ Programming](https://jeremykun.com/)
+  - [Mathematical Fun](https://mathematicalfun.com/)
+  - [Brilliant Blog](https://brilliant.org/blog/)
+  - [Wolfram Blog](https://blog.wolfram.com/)
+  - [Plus Magazine](https://plus.maths.org/)
 
 ### Core Concepts
 

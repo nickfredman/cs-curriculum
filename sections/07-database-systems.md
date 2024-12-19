@@ -44,10 +44,23 @@
 - 📺 **Videos**:
   - [CMU Database Course](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
   - [SQL Tutorial - Full Database Course](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+  - [CMU Database Group](https://www.youtube.com/c/CMUDatabaseGroup)
+  - [Database Design](https://www.youtube.com/c/DatabaseDesign)
+  - [MySQL Tutorial](https://www.youtube.com/c/MySQLTutorial)
+  - [PostgreSQL Tutorials](https://www.youtube.com/c/PostgreSQLTutorial)
+  - [MongoDB](https://www.youtube.com/c/MongoDB)
+  - [Redis University](https://www.youtube.com/c/RedisUniversity)
 - 📝 **Practice**:
   - [SQLZoo](https://sqlzoo.net/)
   - [Mode SQL Tutorial](https://mode.com/sql-tutorial/)
   - [PostgreSQL Exercises](https://pgexercises.com/)
+- 📝 **Blogs & Articles**:
+  - [Use The Index, Luke!](https://use-the-index-luke.com/)
+  - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
+  - [MongoDB Blog](https://www.mongodb.com/blog)
+  - [Redis Blog](https://redis.com/blog/)
+  - [Database Weekly](https://dbweekly.com/)
+  - [High Scalability DB](http://highscalability.com/blog/category/database)
 
 ### Core Concepts
 

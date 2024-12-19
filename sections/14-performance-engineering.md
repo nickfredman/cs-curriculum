@@ -37,6 +37,23 @@
   - [New Relic](https://newrelic.com/)
   - [PerfKit Benchmarker](https://github.com/GoogleCloudPlatform/PerfKitBenchmarker)
 
+### Supplemental Resources
+- 📺 **Videos**:
+  - [Brendan Gregg](https://www.youtube.com/c/BrendanGregg)
+  - [Netflix Performance Engineering](https://www.youtube.com/playlist?list=PLvmF6NNwZZo9BzlQw1V7n8SqXKHBHr4rR)
+  - [USENIX](https://www.youtube.com/c/UsenixOrg)
+  - [JPoint and JokerConf](https://www.youtube.com/c/JUGru)
+  - [Strange Loop](https://www.youtube.com/c/StrangeLoopConf)
+  - [InfoQ](https://www.youtube.com/nctv/InfoQ)
+
+- 📝 **Blogs & Articles**:
+  - [Brendan Gregg's Blog](https://www.brendangregg.com/blog/)
+  - [Netflix Tech Blog - Performance](https://netflixtechblog.com/tagged/performance)
+  - [LinkedIn Engineering - Performance](https://engineering.linkedin.com/blog/topic/performance)
+  - [Facebook Engineering - Performance](https://engineering.fb.com/tag/performance/)
+  - [Uber Engineering - Performance](https://eng.uber.com/tag/performance/)
+  - [Performance Calendar](https://calendar.perfplanet.com/)
+
 ### Core Concepts
 
 - [ ] Profiling

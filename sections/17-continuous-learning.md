@@ -143,10 +143,19 @@
 - 📺 **Videos**:
   - [Tech Trends](https://www.youtube.com/c/TechVision)
   - [Future Technology](https://www.youtube.com/c/Fireship)
-- 📝 **Practice**:
-  - [Tech News](https://github.com/sindresorhus/awesome)
-  - [Research Papers](https://arxiv.org/list/cs/recent)
-  - [Industry Reports](https://www.gartner.com/en/research/methodologies)
+  - [Fireship](https://www.youtube.com/c/Fireship)
+  - [Computerphile](https://www.youtube.com/user/Computerphile)
+  - [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
+  - [Lex Fridman](https://www.youtube.com/c/lexfridman)
+  - [GOTO Conferences](https://www.youtube.com/c/GotoConferences)
+  - [Strange Loop Conference](https://www.youtube.com/c/StrangeLoopConf)
+- 📝 **Blogs & Articles**:
+  - [Hacker News](https://news.ycombinator.com/)
+  - [Dev.to](https://dev.to/)
+  - [The Morning Paper](https://blog.acolyer.org/)
+  - [InfoQ](https://www.infoq.com/)
+  - [ACM Queue](https://queue.acm.org/)
+  - [IEEE Software](https://www.computer.org/csdl/magazine/so)
 
 ### Core Concepts
 

@@ -43,6 +43,19 @@
 - 📺 **Videos**:
   - [Computer Networks Course](https://www.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j)
   - [Networking Fundamentals](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8)
+  - [Computer Networking Course](https://www.youtube.com/c/ComputerNetworking)
+  - [Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering)
+  - [Network Direction](https://www.youtube.com/c/NetworkDirection)
+  - [David Bombal](https://www.youtube.com/c/DavidBombal)
+  - [PowerCert Animated Videos](https://www.youtube.com/c/PowerCertAnimatedVideos)
+  - [Practical Networking](https://www.youtube.com/c/PracticalNetworking)
+- 📝 **Blogs & Articles**:
+  - [High Performance Browser Networking](https://hpbn.co/)
+  - [Cloudflare Blog](https://blog.cloudflare.com/)
+  - [Network Computing](https://www.networkcomputing.com/)
+  - [Packet Pushers](https://packetpushers.net/)
+  - [Network World](https://www.networkworld.com/)
+  - [The TCP/IP Guide](http://www.tcpipguide.com/free/)
 - 📝 **Practice**:
   - [Networking Labs](https://www.practicalnetworking.net/)
   - [Network Programming Exercises](https://beej.us/guide/bgnet/html/)

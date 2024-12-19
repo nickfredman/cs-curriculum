@@ -43,10 +43,23 @@
 - 📺 **Videos**:
   - [MIT 6.828 Lectures](https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUMRY-tu4c014ZO4r)
   - [OS Development Series](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
+  - [Neso Academy OS](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+  - [Gate Smashers OS](https://www.youtube.com/c/GateSmashers)
+  - [David Black-Schaffer](https://www.youtube.com/c/DavidBlackSchaffer)
+  - [Berkeley CS 162](https://www.youtube.com/playlist?list=PLRdybCcWDFzCag9A0h1m9QYaujD0xefgM)
+  - [Systems Programming](https://www.youtube.com/c/SystemsProgramming)
+  - [OS Dev](https://www.youtube.com/c/WritingAnOperatingSystem)
 - 📝 **Practice**:
   - [OSDev Wiki](https://wiki.osdev.org/)
   - [Linux Kernel Newbies](https://kernelnewbies.org/)
   - [xv6 OS Labs](https://pdos.csail.mit.edu/6.828/2020/labs/)
+- 📝 **Blogs & Articles**:
+  - [OS Dev Wiki](https://wiki.osdev.org/)
+  - [Linux Kernel Blog](https://www.kernel.org/blog/)
+  - [LWN.net](https://lwn.net/)
+  - [Writing an OS in Rust](https://os.phil-opp.com/)
+  - [Linux Weekly News](https://lwn.net/)
+  - [The Linux Kernel Archives](https://www.kernel.org/)
 
 ### Core Concepts
 
@@ -90,6 +103,13 @@
 - 📝 **Practice**:
   - [Memory Management Unit Implementation](https://github.com/mit-pdos/xv6-public/blob/master/vm.c)
   - [Linux Memory Management Documentation](https://www.kernel.org/doc/html/latest/admin-guide/mm/index.html)
+- 📝 **Blogs & Articles**:
+  - [OS Dev Wiki](https://wiki.osdev.org/)
+  - [Linux Kernel Blog](https://www.kernel.org/blog/)
+  - [LWN.net](https://lwn.net/)
+  - [Writing an OS in Rust](https://os.phil-opp.com/)
+  - [Linux Weekly News](https://lwn.net/)
+  - [The Linux Kernel Archives](https://www.kernel.org/)
 
 ### Core Concepts
 
@@ -133,6 +153,13 @@
 - 📝 **Practice**:
   - [Write a File System](https://github.com/psankar/simplefs)
   - [FUSE Tutorials](https://github.com/libfuse/libfuse/tree/master/example)
+- 📝 **Blogs & Articles**:
+  - [OS Dev Wiki](https://wiki.osdev.org/)
+  - [Linux Kernel Blog](https://www.kernel.org/blog/)
+  - [LWN.net](https://lwn.net/)
+  - [Writing an OS in Rust](https://os.phil-opp.com/)
+  - [Linux Weekly News](https://lwn.net/)
+  - [The Linux Kernel Archives](https://www.kernel.org/)
 
 ### Core Concepts
 
@@ -176,6 +203,13 @@
 - 📝 **Practice**:
   - [Write a Linux Kernel Module](https://sysprog21.github.io/lkmpg/)
   - [Device Driver Examples](https://github.com/martinezjavier/ldd3)
+- 📝 **Blogs & Articles**:
+  - [OS Dev Wiki](https://wiki.osdev.org/)
+  - [Linux Kernel Blog](https://www.kernel.org/blog/)
+  - [LWN.net](https://lwn.net/)
+  - [Writing an OS in Rust](https://os.phil-opp.com/)
+  - [Linux Weekly News](https://lwn.net/)
+  - [The Linux Kernel Archives](https://www.kernel.org/)
 
 ### Core Concepts
 

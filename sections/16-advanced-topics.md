@@ -27,6 +27,15 @@
   - [D-Wave Ocean](https://ocean.dwavesys.com/)
   - [TensorFlow Quantum](https://www.tensorflow.org/quantum)
 
+### Supplemental Resources
+- 📺 **Videos**:
+  - [Quantum Computing](https://www.youtube.com/c/QuantumComputingChannel)
+  - [IBM Quantum](https://www.youtube.com/c/IBMResearch)
+  - [Qiskit](https://www.youtube.com/c/qiskit)
+- 📝 **Blogs & Articles**:
+  - [Quantum Computing Report](https://quantumcomputingreport.com/)
+  - [Q# Blog](https://devblogs.microsoft.com/qsharp/)
+
 ### Core Concepts
 
 - [ ] Quantum Mechanics
@@ -58,6 +67,17 @@
 - 💻 **Tools**:
   - [Ethereum Development Suite](https://ethereum.org/developers/)
   - [Solidity](https://soliditylang.org/)
+
+### Supplemental Resources
+- 📺 **Videos**:
+  - [Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto)
+  - [Finematics](https://www.youtube.com/c/Finematics)
+  - [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
+- 📝 **Blogs & Articles**:
+  - [Ethereum Blog](https://blog.ethereum.org/)
+  - [Coinbase Blog](https://blog.coinbase.com/the-technical-blog/home)
+  - [ConsenSys Blog](https://consensys.net/blog/)
+  - [Web3 Foundation Blog](https://medium.com/web3foundation)
 
 ### Core Concepts
 

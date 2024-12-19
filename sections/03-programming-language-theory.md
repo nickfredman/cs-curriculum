@@ -40,6 +40,19 @@
 - 📺 **Videos**:
   - [Programming Language Theory](https://www.youtube.com/watch?v=TG0qRDrUPpA)
   - [Language Design Patterns](https://www.youtube.com/watch?v=5P4hK-PMG9E)
+  - [Programming Languages by Brown CS](https://www.youtube.com/playlist?list=PLrJfcfNmZHYO8c2Xq1UXkw1E1pTgfpXoO)
+  - [GOTO Conferences](https://www.youtube.com/c/GotoConferences)
+  - [Strange Loop Conference](https://www.youtube.com/c/StrangeLoopConf)
+  - [Computerphile](https://www.youtube.com/user/Computerphile)
+  - [LambdaConf](https://www.youtube.com/c/LambdaConf)
+  - [PLDI Conference](https://www.youtube.com/channel/UCmt5OhUEHZzOVT9yO-T8BZA)
+- 📝 **Blogs & Articles**:
+  - [Lambda the Ultimate](http://lambda-the-ultimate.org/)
+  - [Programming Language Research Blog](https://blog.sigplan.org/)
+  - [The Morning Paper](https://blog.acolyer.org/)
+  - [Hillel Wayne's Blog](https://www.hillelwayne.com/)
+  - [Types and Programming Languages Blog](https://typesandprogramming.com/)
+  - [PL Perspectives](https://blog.plover.com/)
 - 📝 **Practice**:
   - [Programming Language Zoo](https://plzoo.andrej.com/)
   - [Language Implementation Patterns](https://github.com/tpope/vim-fireplace)

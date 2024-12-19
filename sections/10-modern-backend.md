@@ -45,10 +45,24 @@
   - [Spring Boot Tutorial](https://www.youtube.com/watch?v=9SGDpanrc8U)
   - [Django Web Framework](https://www.youtube.com/watch?v=F5mRW0jo-U4)
   - [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
+- 📺 **YouTube Channels**:
+  - [Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering)
+  - [TechWorld with Nana](https://www.youtube.com/c/TechWorldwithNana)
+  - [ArjanCodes](https://www.youtube.com/c/ArjanCodes)
+  - [ByteByteGo](https://www.youtube.com/c/ByteByteGo)
+  - [Fireship](https://www.youtube.com/c/Fireship)
+  - [Theo - t3.gg](https://www.youtube.com/c/TheoBrowne1017)
 - 📝 **Practice**:
   - [Spring Pet Clinic](https://github.com/spring-projects/spring-petclinic)
   - [Django Poll App](https://docs.djangoproject.com/en/3.2/intro/tutorial01/)
   - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
+- 📝 **Blogs & Articles**:
+  - [Martin Fowler](https://martinfowler.com/)
+  - [High Scalability](http://highscalability.com/)
+  - [The Pragmatic Engineer](https://blog.pragmaticengineer.com/)
+  - [System Design Blog](https://blog.bytebytego.com/)
+  - [AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/)
+  - [Uber Engineering Blog](https://eng.uber.com/)
 
 ### Core Concepts
 

@@ -116,6 +116,95 @@ This repository contains a comprehensive curriculum for mastering software engin
     - [ ] Professional Development
     - [ ] Community Engagement
 
+## Projects Index
+
+### Mathematical Foundations
+- [ ] Linear algebra visualization tool
+- [ ] Image processing with matrices
+- [ ] Computer vision application
+
+### Computer Science Fundamentals
+- [ ] ArrayList implementation
+- [ ] LinkedList with advanced operations
+- [ ] Database indexing system
+
+### Programming Language Theory
+- [ ] Simple interpreter
+- [ ] Type checker
+- [ ] Programming language implementation
+
+### Systems Programming
+- [ ] Memory allocator
+- [ ] Thread pool implementation
+- [ ] Custom shell
+
+### Operating Systems
+- [ ] Simple shell with basic commands
+- [ ] Memory allocator with different strategies
+- [ ] Mini kernel with scheduling
+
+### Computer Networks
+- [ ] HTTP server with concurrent connections
+- [ ] Reliable file transfer protocol
+- [ ] P2P chat with encryption
+
+### Database Systems
+- [ ] SQL query optimizer
+- [ ] Document store with ACID
+- [ ] Time-series database
+
+### Web Development
+- [ ] Portfolio with dark mode
+- [ ] Real-time markdown editor
+- [ ] Full-stack e-commerce
+
+### Distributed Systems
+- [ ] Key-value store with leader election
+- [ ] Event sourcing system
+- [ ] Distributed task scheduler
+
+### Modern Backend
+- [ ] RESTful API with caching
+- [ ] GraphQL API with subscriptions
+- [ ] Microservices with service mesh
+
+### Mobile Development
+- [ ] Todo app with notifications
+- [ ] Social app with Firebase
+- [ ] AR app with ML integration
+
+### Systems Architecture
+- [ ] Microservices with service discovery
+- [ ] Event-driven architecture
+- [ ] Cloud-native application
+
+### Software Engineering
+- [ ] CI/CD pipeline
+- [ ] Feature flag system
+- [ ] Monitoring system
+
+### Performance Engineering
+- [ ] Load testing suite
+- [ ] Memory leak detector
+- [ ] Distributed tracing system
+
+### Artificial Intelligence
+- [ ] Image classifier with CNNs
+- [ ] Language model fine-tuning
+- [ ] Multi-modal AI system
+
+### Advanced Topics
+- [ ] Quantum circuit simulator
+- [ ] Smart contract with DeFi
+- [ ] IoT system with blockchain
+
+### Modern Development
+- [ ] Multi-environment infrastructure
+- [ ] Kubernetes cluster with GitOps
+- [ ] AI-powered development tools
+
+_Note: Each project links to its detailed description in the respective section. Click on a project to view requirements, architecture, and implementation details._
+
 ## Directory Structure
 
 ```
@@ -139,4 +228,3 @@ This repository contains a comprehensive curriculum for mastering software engin
     ├── 15-artificial-intelligence.md
     ├── 16-advanced-topics.md
     └── 17-continuous-learning.md
-```
