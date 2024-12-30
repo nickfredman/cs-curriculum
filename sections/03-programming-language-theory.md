@@ -1,10 +1,11 @@
 # 3. Programming Language Theory
 
-**Prerequisites**: 
+**Prerequisites**:
+
 - Computer Science Fundamentals
 - Basic Programming Experience
 - Mathematical Foundations
-**Estimated Time**: 10-12 weeks (10-15 hours/week)
+  **Estimated Time**: 10-12 weeks (10-15 hours/week)
 
 ## Learning Objectives
 
@@ -27,7 +28,7 @@
   - "Engineering a Compiler" by Keith Cooper and Linda Torczon (3rd Edition, 2022)
 - 🎓 **Courses**:
   - [Programming Languages](https://www.coursera.org/learn/programming-languages)
-  - [Principles of Programming Languages](https://www.edx.org/course/principles-of-programming-languages)
+  - [Principles of Programming Languages](https://www.youtube.com/watch?v=66wjhulfmfI)
   - [Design of Programming Languages](https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/)
 - 💻 **Tools**:
   - [LLVM](https://llvm.org/)
@@ -37,6 +38,7 @@
   - [AST Explorer](https://astexplorer.net/)
 
 ### Supplemental Resources
+
 - 📺 **Videos**:
   - [Programming Language Theory](https://www.youtube.com/watch?v=TG0qRDrUPpA)
   - [Language Design Patterns](https://www.youtube.com/watch?v=5P4hK-PMG9E)
@@ -51,7 +53,6 @@
   - [Programming Language Research Blog](https://blog.sigplan.org/)
   - [The Morning Paper](https://blog.acolyer.org/)
   - [Hillel Wayne's Blog](https://www.hillelwayne.com/)
-  - [Types and Programming Languages Blog](https://typesandprogramming.com/)
   - [PL Perspectives](https://blog.plover.com/)
 - 📝 **Practice**:
   - [Programming Language Zoo](https://plzoo.andrej.com/)
@@ -93,6 +94,7 @@
   - [ANTLR](https://www.antlr.org/)
 
 ### Supplemental Resources
+
 - 📺 **Videos**:
   - [Compiler Design Tutorial](https://www.youtube.com/watch?v=Qkwj65l_96I)
   - [LLVM Tutorial](https://www.youtube.com/watch?v=OhkwPSvyBu0)
@@ -133,9 +135,10 @@
   - [Coq](https://coq.inria.fr/)
   - [Agda](https://wiki.portal.chalmers.se/agda/)
   - [Idris](https://www.idris-lang.org/)
-  - [F*](https://www.fstar-lang.org/)
+  - [F\*](https://www.fstar-lang.org/)
 
 ### Supplemental Resources
+
 - 📺 **Videos**:
   - [Type Theory for Programmers](https://www.youtube.com/watch?v=SknxggwRPzU)
   - [Dependent Types](https://www.youtube.com/watch?v=P6YUKXBtqEU)
@@ -179,6 +182,7 @@
   - [BEAM](https://www.erlang.org/blog/a-brief-beam-primer/)
 
 ### Supplemental Resources
+
 - 📺 **Videos**:
   - [Building an Interpreter](https://www.youtube.com/watch?v=LCslqgM48D4)
   - [JVM Internals](https://www.youtube.com/watch?v=ZBJ0u9MaKtM)

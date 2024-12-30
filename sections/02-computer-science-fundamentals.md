@@ -54,7 +54,6 @@
   - [CP-Algorithms](https://cp-algorithms.com/)
   - [USACO Guide](https://usaco.guide/)
   - [Codeforces Blogs](https://codeforces.com/blog/entry/13529)
-  - [Algorithm Visualizer Blog](https://algorithm-visualizer.org/blog)
 - 📝 **Practice**:
   - [LeetCode Data Structure Track](https://leetcode.com/study-plan/data-structure/)
   - [HackerRank Data Structures](https://www.hackerrank.com/domains/data-structures)
@@ -148,7 +147,6 @@
   - [Digital Design Course](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
 - 📝 **Practice**:
   - [MIPS Assembly Programming](https://chortle.ccsu.edu/AssemblyTutorial/index.html)
-  - [Computer Architecture Lab Assignments](https://www.cs.cornell.edu/courses/cs3410/2019sp/labs/)
 
 ### Core Concepts
 
@@ -178,7 +176,7 @@
 - 🎓 **Courses**:
   - [Stanford CS154: Introduction to Automata and Complexity Theory](https://web.stanford.edu/class/cs154/)
   - [MIT 18.404J Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
-  - [UC Berkeley CS172 Computability and Complexity](https://people.eecs.berkeley.edu/~sanjamg/classes/cs172-fall16/)
+  - [UC Berkeley CS172 Computability and Complexity](https://www2.eecs.berkeley.edu/Courses/CS172/)
 - 💻 **Tools**:
   - [JFLAP](https://www.jflap.org/)
   - [Automata Simulator](https://automatonsimulator.com/)
@@ -192,7 +190,7 @@
   - [Complexity Theory](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)
 - 📝 **Practice**:
   - [Automata Tutor](https://automata.model.in.tum.de/)
-  - [Theory of Computation Problems](https://www.cs.princeton.edu/courses/archive/fall20/cos510/problemsets.html)
+  - [Theory of Computation Problems](https://www.cs.princeton.edu/courses/archive/fall2000/cs510/assignments.html)
 
 ### Core Concepts
 

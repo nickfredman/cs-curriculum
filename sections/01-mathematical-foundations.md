@@ -26,7 +26,7 @@
   - [3Blue1Brown: Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
   - [Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 - 💻 **Tools**:
-  - [MATLAB](https://www.mathworks.com/products/matlab.html) or [GNU Octave](https://www.gnu.org/software/octave/)
+  - [MATLAB] or [GNU Octave](https://www.gnu.org/software/octave/)
   - [NumPy](https://numpy.org/) for Python
   - [Mathematica](https://www.wolfram.com/mathematica/)
   - [GeoGebra](https://www.geogebra.org/) for visualizations
@@ -44,13 +44,11 @@
   - [MIT OpenCourseWare](https://www.youtube.com/c/mitocw)
 - 📝 **Practice**:
   - [MIT Linear Algebra Problem Sets](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/assignments/)
-  - [Linear Algebra Practice Problems](https://www.math.ucdavis.edu/~linear/practice.html)
+  - [Linear Algebra Practice Problems](https://www.math.ucdavis.edu/~lstarkston/math22A/exams)
   - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
 - 📝 **Blogs & Articles**:
   - [Better Explained](https://betterexplained.com/)
   - [Math ∩ Programming](https://jeremykun.com/)
-  - [Mathematical Fun](https://mathematicalfun.com/)
-  - [Brilliant Blog](https://brilliant.org/blog/)
   - [Wolfram Blog](https://blog.wolfram.com/)
   - [Plus Magazine](https://plus.maths.org/)
 
@@ -104,8 +102,6 @@
 - 📝 **Blogs & Articles**:
   - [Better Explained](https://betterexplained.com/)
   - [Math ∩ Programming](https://jeremykun.com/)
-  - [Mathematical Fun](https://mathematicalfun.com/)
-  - [Brilliant Blog](https://brilliant.org/blog/)
   - [Wolfram Blog](https://blog.wolfram.com/)
   - [Plus Magazine](https://plus.maths.org/)
 
@@ -154,13 +150,11 @@
   - [Numberphile](https://www.youtube.com/user/numberphile)
   - [MIT OpenCourseWare](https://www.youtube.com/c/mitocw)
 - 📝 **Practice**:
-  - [Kaggle Learn Statistics](https://www.kaggle.com/learn/intro-to-statistics)
+  - [Kaggle Learn Statistics](https://www.kaggle.com/learn)
   - [OpenIntro Statistics](https://www.openintro.org/book/os/)
 - 📝 **Blogs & Articles**:
   - [Better Explained](https://betterexplained.com/)
   - [Math ∩ Programming](https://jeremykun.com/)
-  - [Mathematical Fun](https://mathematicalfun.com/)
-  - [Brilliant Blog](https://brilliant.org/blog/)
   - [Wolfram Blog](https://blog.wolfram.com/)
   - [Plus Magazine](https://plus.maths.org/)
 
@@ -211,12 +205,10 @@
   - [MIT OpenCourseWare](https://www.youtube.com/c/mitocw)
 - 📝 **Practice**:
   - [Paul's Online Math Notes](https://tutorial.math.lamar.edu/)
-  - [MIT OCW Calculus Problems](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/problem-solving-resources/)
+  - [MIT OCW Calculus Problems](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
 - 📝 **Blogs & Articles**:
   - [Better Explained](https://betterexplained.com/)
   - [Math ∩ Programming](https://jeremykun.com/)
-  - [Mathematical Fun](https://mathematicalfun.com/)
-  - [Brilliant Blog](https://brilliant.org/blog/)
   - [Wolfram Blog](https://blog.wolfram.com/)
   - [Plus Magazine](https://plus.maths.org/)
 
